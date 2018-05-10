@@ -1,9 +1,5 @@
 /*04/23/2018*/
 /*
-Recommandation:
-vel 200
-torque 320
-
 Centriod:
 DX1  2048
 DX2  2048
