@@ -4,7 +4,7 @@ Recommandation:
 vel 200
 torque 320
 
-Limitaiton:
+Centriod:
 DX1  2048
 DX2  2048
 DX3  2048
